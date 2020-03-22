@@ -1,0 +1,11 @@
+C:\Users\Teknally\csharpplayground\AlgoBook\bin\Debug\netcoreapp3.1\AlgoBook.exe
+C:\Users\Teknally\csharpplayground\AlgoBook\bin\Debug\netcoreapp3.1\AlgoBook.deps.json
+C:\Users\Teknally\csharpplayground\AlgoBook\bin\Debug\netcoreapp3.1\AlgoBook.runtimeconfig.json
+C:\Users\Teknally\csharpplayground\AlgoBook\bin\Debug\netcoreapp3.1\AlgoBook.runtimeconfig.dev.json
+C:\Users\Teknally\csharpplayground\AlgoBook\bin\Debug\netcoreapp3.1\AlgoBook.dll
+C:\Users\Teknally\csharpplayground\AlgoBook\bin\Debug\netcoreapp3.1\AlgoBook.pdb
+C:\Users\Teknally\csharpplayground\AlgoBook\obj\Debug\netcoreapp3.1\AlgoBook.csprojAssemblyReference.cache
+C:\Users\Teknally\csharpplayground\AlgoBook\obj\Debug\netcoreapp3.1\AlgoBook.AssemblyInfoInputs.cache
+C:\Users\Teknally\csharpplayground\AlgoBook\obj\Debug\netcoreapp3.1\AlgoBook.AssemblyInfo.cs
+C:\Users\Teknally\csharpplayground\AlgoBook\obj\Debug\netcoreapp3.1\AlgoBook.dll
+C:\Users\Teknally\csharpplayground\AlgoBook\obj\Debug\netcoreapp3.1\AlgoBook.pdb
